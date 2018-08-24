@@ -18,13 +18,13 @@ I used Python 3.6 for this program. [Download](https://www.python.org/downloads/
 		- $python3 -m pip install --user virtualenv
 	* On Windows:
 		- $py -m pip install --user virtualenv
-### 2. Creating Virtualenv
-	* On macOS and Linux: (in cmd)
+### 2. Creating Virtualenv (in some directory)
+	* On macOS and Linux:
 		- $python3 -m virtualenv env
 	* On Windows:
 		- $py -m virtualenv env
 ### 3. Activating Virtualenv
-	* On macOS and Linux: (in cmd)
+	* On macOS and Linux:
 		- source env/bin/activate
 	* On Windows:
 		- .\env\Scripts\activate
