@@ -30,18 +30,17 @@ I used Python 3.6 for this program. [Download](https://www.python.org/downloads/
 		- .\env\Scripts\activate
 		
 ## Setup Project
-### 1. Make new directory
-	- $mkdir project
-	- $cd project
-### 2. Clone repo (or download zip file)
+### 1. Clone repo (or download zip file)
 	- $git clone https://github.com/brianmcdevitt/Business_Card_Parser.git
+### 2. Go to new directory
+	- $cd Business_Card_Parser
 ### 3. Install Requirements (will take a minute)
 	* On macOS and Linux: (in cmd)
 		- $pip install -r requirements.txt
 	* On Windows:
 		- $python -m pip install -U pip setuptools
-	* Then on both Systems run this command:
-		- $python -m spacy download en
+### 4. Then on both Systems run this command:
+	- $python -m spacy download en
 		
 ## Run Project
 ### 1. Go to python files
