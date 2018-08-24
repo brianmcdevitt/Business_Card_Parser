@@ -1,0 +1,7 @@
+Actress
+Meryl Streep
+1234 Star Way
+Hollywood, CA 12345
+Fax: 800.555.1234
+Telephone: 800.555.4321
+meryl.streep@star.net
